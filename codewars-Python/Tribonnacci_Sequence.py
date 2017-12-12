@@ -1,4 +1,5 @@
 def tribonacci(signature, n):
+    print "alex"
     arrayvide=[]
     if n==0:
         return arrayvide
